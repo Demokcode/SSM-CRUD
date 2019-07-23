@@ -5,4 +5,4 @@
 通过ajax请求json数据实现初步的前后端分离，
 使用Spring单元测试测试持久层，
 使用JSR303校验数据，
-使用Mybatis逆向工程生成bean mapper（自行增加了几个方法）。
+使用Mybatis逆向工程生成bean mapper。
